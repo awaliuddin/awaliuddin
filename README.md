@@ -14,20 +14,22 @@
   </a>
 </div>
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=awaliuddin&style=flat-square&color=blue" alt=""/>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=awaliuddin&style=flat-square&color=blue" alt=""/>
+  </a>
 <h1>
   hey there 👋
 </h1>
 </div>
 
+### :man_technologist: About Me :
+- :zap: I’m building Generative AI products on skinny.cloud to showcase/share/collaborate on our rapid-prototypes 
 
-- :telescope: I’m building Generative AI products on skinny.cloud to showcase/share/collaborate on our rapid-prototypes 
+- :seedling: Exploring / Learning GenAI, LLM, RAG, and Vector Databases.
 
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I'm on the lookout for brilliant creatives to collab with.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-asif-/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

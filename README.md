@@ -21,6 +21,10 @@
   hey there 👋
 </h1>
 </div>
+<div align="center">
+  <img src="https://skinny.cloud/wp-content/uploads/2024/01/Tw-Headers.c-work-futurev3.png" width="750" height="250"/>
+</div>
+
 
 ### :man_technologist: About Me :
 - :zap: I’m building Generative AI products on skinny.cloud to showcase/share/collaborate on our rapid-prototypes 

@@ -21,7 +21,7 @@
 </div>
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m building Generative AI products on skinny.cloud to showcase/share/collaborate on our rapid-prototypes 
 
 - :seedling: Exploring Technical Content Writing.
 

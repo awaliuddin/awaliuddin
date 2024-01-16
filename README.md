@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/h5FX6gsphsJpO4Re7O/giphy.gif" width="100"/>
 </div>
@@ -27,9 +26,9 @@
 
 
 ### :man_technologist: About Me :
-- :zap: I’m building Generative AI products on skinny.cloud to showcase/share/collaborate on our rapid-prototypes 
+- :zap: I’m building Generative AI products on <a href="https://skinny.cloud">skinny.cloud</a> to showcase/share/collaborate on our rapid-prototypes 
 
-- :seedling: Exploring / Learning GenAI, LLM, RAG, and Vector Databases.
+- :seedling: Exploring POCs w/ GenAI, Autonomous LLM Agents, RAG, and Vector Databases.
 
 - :telescope: I'm on the lookout for brilliant creatives to collab with.
 

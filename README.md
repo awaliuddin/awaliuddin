@@ -1,6 +1,8 @@
 
-
-<div id="badges">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/h5FX6gsphsJpO4Re7O/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/-asif-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -11,15 +13,12 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=awaliuddin&style=flat-square&color=blue" alt=""/>
-
-
 <h1>
   hey there 👋
 </h1>
-
+</div>
 
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.

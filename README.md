@@ -37,7 +37,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://skinny.cloud/wp-content/uploads/2024/01/openai-white-logomark.png" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
+  <img src="https://skinny.cloud/wp-content/uploads/2024/01/openai-logomark.png" title="OpenAI" alt="OpenAI" width="40" height="40"/>&nbsp;
   <img src="https://skinny.cloud/wp-content/uploads/2024/01/stability.ai_.webp" title="stability.ai" alt="stability.ai" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;

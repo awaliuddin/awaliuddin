@@ -21,7 +21,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://skinny.cloud/wp-content/uploads/2024/01/Tw-Headers.c-work-futurev3.png" width="750" height="250"/>
+  <img src="https://skinny.cloud/wp-content/uploads/2024/01/Tw-Headers.c-work-futurev3.png" width="100%" height="100%"/>
 </div>
 
 

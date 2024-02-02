@@ -17,7 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=awaliuddin&style=flat-square&color=blue" alt=""/>
   </a>
 <h1>
-  hey there 👋
+  🙌🏽 heya 🤩
 </h1>
 </div>
 <div align="center">

@@ -28,11 +28,11 @@
 ### 👨🏾‍💻 About Me :
 - :zap: I’m building Generative AI products on <a href="https://skinny.cloud">skinny.cloud</a> to showcase/share/collaborate on our rapid-prototypes 
 
-- :seedling: Exploring POCs powered by OpenAI; GenAI, Autonomous LLM Agents, RAG, and Vector Databases.
+- :seedling: Exploring POCs powered by OpenAI; GenAI, Autonomous Muli-Agents, LLMs, RAG, Vector & Graph DBs.
 
 - :telescope: I'm on the lookout for brilliant creatives to collab with.
 
-- 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-asif-/)
+- 🤝 Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-asif-/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -57,6 +57,7 @@
   <img src="https://skinny.cloud/wp-content/uploads/2024/01/taskade.png" title="Taskade" alt="Taskade" width="40" height="40"/>
 </div>
 ---
+
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=awaliuddin&theme=dark&background=000000)](https://git.io/streak-stats)

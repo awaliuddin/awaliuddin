@@ -28,11 +28,11 @@
 ### 👨🏾‍💻 About Me :
 - :zap: I’m building Generative AI products on <a href="https://skinny.cloud">skinny.cloud</a> to showcase/share/collaborate on our rapid-prototypes 
 
-- :seedling: Exploring POCs w/ GenAI, Autonomous LLM Agents, RAG, and Vector Databases.
+- :seedling: Exploring POCs powered by OpenAI; GenAI, Autonomous LLM Agents, RAG, and Vector Databases.
 
 - :telescope: I'm on the lookout for brilliant creatives to collab with.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-asif-/)
+- 💬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-asif-/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :

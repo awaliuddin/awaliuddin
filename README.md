@@ -25,7 +25,7 @@
 </div>
 
 
-### :man_technologist: About Me :
+### 👨🏾‍💻 About Me :
 - :zap: I’m building Generative AI products on <a href="https://skinny.cloud">skinny.cloud</a> to showcase/share/collaborate on our rapid-prototypes 
 
 - :seedling: Exploring POCs w/ GenAI, Autonomous LLM Agents, RAG, and Vector Databases.

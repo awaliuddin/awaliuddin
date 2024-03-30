@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/h5FX6gsphsJpO4Re7O/giphy.gif" width="100"/>
+<div align="center">
+  <img src="AxW-Punk-Header.svg" width="100%" height="100%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/-asif-/">
@@ -20,9 +20,7 @@
   🙌🏽 heya 🤩
 </h1>
 </div>
-<div align="center">
-  <img src="AxW-Punk-Header.svg" width="100%" height="100%"/>
-</div>
+
 
 
 ### 👨🏾‍💻 About Me :

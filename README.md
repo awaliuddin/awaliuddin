@@ -24,11 +24,11 @@
 
 
 ### 👨🏾‍💻 About Me :
-- :zap: I’m building Generative AI products on <a href="https://skinny.cloud">skinny.cloud</a> to showcase/share/collaborate on our rapid-prototypes 
+- :zap: I’m building Generative AI products on <a href="https://nxtg.ai">nxtg.ai</a> to showcase/share/collaborate on our rapid-prototypes 
 
 - :seedling: Exploring POCs powered by OpenAI; GenAI, Autonomous Muli-Agents, LLMs, RAG, Vector & Graph DBs.
 
-- :telescope: I'm on the lookout for brilliant creatives to collab with.
+- :telescope: I'm on the lookout for brilliant creatives to collab with; DM for some fun Vibe Coding sessions! 
 
 - 🤝 Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-asif-/)
 ---

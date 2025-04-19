@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/-asif-/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="http://www.youtube.com/@-AxW">
+  <a href="http://www.youtube.com/@NxtGai">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/Asif_Waliuddin">

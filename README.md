@@ -31,6 +31,8 @@
 - :telescope: I'm on the lookout for brilliant creatives to collab with; DM for some fun Vibe Coding sessions! 
 
 - 🤝 Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-asif-/)
+
+- 🎁 Join [ClaudeMax](https://claude.ai/referral/0Fs985xDSA) | Join [PerplexityPro](https://perplexity.ai/pro?referral_code=4I5O5NL8)
 ---
 
 ### 💻🗃️ Languages and Frameworks :

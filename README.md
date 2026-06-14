@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="AxW-Punk-Header.svg" width="100%" height="100%"/>
+  <img src="nxtg-forge-banner-sm.png" width="100%" height="100%"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/-asif-/">

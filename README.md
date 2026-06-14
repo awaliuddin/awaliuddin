@@ -32,7 +32,7 @@
 
 - 🤝 Let's Connect: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-asif-/)
 
-- 🎁 Join [ClaudeMax](https://claude.ai/referral/0Fs985xDSA) | Join [PerplexityPro](https://perplexity.ai/pro?referral_code=4I5O5NL8)
+- 🎁 Try: [Claude Code - 1 week free](https://claude.ai/referral/A4oJT3ptHg) | Join [PerplexityPro](https://perplexity.ai/pro?referral_code=4I5O5NL8)
 ---
 
 ### 💻🗃️ Languages and Frameworks :
